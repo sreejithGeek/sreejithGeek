@@ -1,18 +1,9 @@
 <!-- Your Name -->
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Sreejith 👋
 
 <!-- Your Bio -->
-I'm a passionate [Your Profession] from [Your Location]. I enjoy working on [Your Interests/Hobbies].
+I'm a passionate cyber security and web development .
 
-<!-- GitHub Stats -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs)
-
-<!-- Skills and Technologies -->
-## Skills and Technologies
-#- 💻 [Your Skill 1]
-#- 💼 [Your Skill 2]
-#- 🚀 [Your Skill 3]
-#- ⚙️ [Your Skill 4]
 
 
 
@@ -20,8 +11,6 @@ I'm a passionate [Your Profession] from [Your Location]. I enjoy working on [You
 ## Connect with Me
 - 🌐 [Your Website/Portfolio](Your Website URL)
 - 📧 [Email](mailto:mesreejith0@gmail.com)
-#- 💼 [LinkedIn](Your LinkedIn Profile URL)
-#- 🐦 [Twitter](Your Twitter Profile URL)
 
 <!-- GitHub Trophies -->
 ## GitHub Trophies
