@@ -9,7 +9,7 @@ I'm a passionate cyber security and web development .
 
 <!-- Connect with Me -->
 ## Connect with Me
-- 🌐 [Your Website/Portfolio](Your Website URL)
+- 🌐 [Your Website/Portfolio](https://sreejithnerd.github.io/netflixcloneproject/)
 - 📧 [Email](mailto:mesreejith0@gmail.com)
 
 <!-- GitHub Trophies -->
@@ -33,4 +33,4 @@ I'm a passionate cyber security and web development .
 <!-- Footer -->
 <hr>
 
-#*If you like what I do, consider [buying me a coffee](Your Buy Me a Coffee Link)! ☕*
+
