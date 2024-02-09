@@ -33,3 +33,12 @@ src="https://img.shields.io/github/followers/sreejithGeek?logo=github&style=for-
 <a href="http://www.github.com/sreejithGeek"><img src="https://github-readme-stats.vercel.app/api?username=sreejithGeek&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sreejithGeek's GitHub stats" /></a>
 
 <a href="https://github.com/sreejithGeek" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreejithGeek&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sreejithGeek&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
